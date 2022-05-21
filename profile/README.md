@@ -1,12 +1,12 @@
 ## Hi there 👋 welcome to Kyverno! 
 
-![kyverno](/kyverno-stacked-color.png)
+![kyverno](/kyverno-stacked-color-small.png)
 
 Kyverno (Greek for "govern") is a Kubernetes admission controller and CNCF project that has the ability to validate, mutate, and generate resources plus verify OCI container images for supply chain security guarantees--all without requiring any programming language.
 
 ### Repository Index
 
-Here's a brieft guide to our most popular repositories and what's inside.
+Here's a brief guide to our most popular repositories and what's inside.
 
 * [kyverno](https://github.com/kyverno/kyverno): The main application repository.
 * [website](https://github.com/kyverno/website): The source for the Kyverno website at https://kyverno.io.
