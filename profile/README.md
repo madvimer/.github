@@ -13,7 +13,7 @@ Here's a brief guide to our most popular repositories and what's inside.
 * [website](https://github.com/kyverno/website): The source for the Kyverno website at https://kyverno.io.
 * [policies](https://github.com/kyverno/policies): The Kyverno policy library and test cases (with web frontend at https://kyverno.io/policies).
 * [policy-reporter](https://github.com/kyverno/policy-reporter): The Kyverno Policy Reporter sub-project which shows policy reports in a graphical web-based front end.
-* [KDP](https://github.com/kyverno/KDP): The Kubernetes Design Proposals repository, where significant new enhancements and features are proposed.
+* [KDP](https://github.com/kyverno/KDP): The Kyverno Design Proposals repository, where significant new enhancements and features are proposed.
 * [demos](https://github.com/kyverno/demos): Any Kyverno demos that have been given usually store the sample policies and resources here.
 
 ### Documentation
