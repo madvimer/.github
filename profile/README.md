@@ -16,7 +16,7 @@ Here's a brief guide to our most popular repositories and what's inside.
 * [playground](https://github.com/kyverno/playground): The Kyverno Playground sub-project which allows browser-based, graphical testing of Kyverno policies. The Kyverno Playground can also be used publicly [here](https://playground.kyverno.io/).
 * [KDP](https://github.com/kyverno/KDP): The Kyverno Design Proposals repository, where significant new enhancements and features are proposed.
 * [demos](https://github.com/kyverno/demos): Any Kyverno demos that have been given usually store the sample policies and resources here.
-* * [Kyverno-JSON](https://github.com/kyverno/kyverno-json): Kyverno policies for non-Kubernetes workloads and any JSON payload.
+* [kyverno-JSON](https://github.com/kyverno/kyverno-json): Kyverno policies for non-Kubernetes workloads and any JSON payload.
 * [chainsaw](https://github.com/kyverno/chainsaw): An end-to-end, declarative testing tool anyone can use to test Kubernetes operators. Tests require no programming language/knowledge, just like Kyverno!
 
 ### Documentation
