@@ -9,7 +9,7 @@ GitHub is Kyverno's home and here you can find all the interesting things the Ky
 
 ### Projects
 
-* **Kyverno** ([web](https://kyverno.io/), [repo](https://github.com/kyverno/kyverno)): a Kubernetes admission controller, scanner, and command-line for Kyverno policy management.
+* **Kyverno** ([web](https://kyverno.io/), [repo](https://github.com/kyverno/kyverno)): a Kubernetes admission controller, scanner, and command-line for policy lifecycle management.
 
 * **Policy Reporter** ([web](https://kyverno.github.io/policy-reporter/), [repo](https://github.com/kyverno/policy-reporter)): in-cluster management of policy violations and reports with a graphical web-based front end.
 
