@@ -22,7 +22,7 @@ GitHub is Kyverno's home and here you can find all the interesting things the Ky
 * [website](https://github.com/kyverno/website): The source for the Kyverno website at https://kyverno.io.
 * [policies](https://github.com/kyverno/policies): The Kyverno policy library and test cases (with web frontend at https://kyverno.io/policies).
 * [playground](https://github.com/kyverno/playground): The Kyverno Playground sub-project which allows browser-based, graphical testing of Kyverno policies. The Kyverno Playground can also be used publicly [here](https://playground.kyverno.io/).
-* [KDP](https://github.com/kyverno/KDP): The Kyverno Design Proposal (KDP) repository, where significant new enhancements and features are proposed and reviwed.
+* [KDP](https://github.com/kyverno/KDP): The Kyverno Design Proposal (KDP) repository, where new features are proposed and reviwed.
 * [demos](https://github.com/kyverno/demos): Any Kyverno demos that have been given usually store the sample policies and resources here.
 * [community](https://github.com/kyverno/community): project governance, code of conduct, and other common information.
 
