@@ -17,6 +17,9 @@ GitHub is Kyverno's home and here you can find all the interesting things the Ky
 
 * **Chainsaw** ([web](https://kyverno.github.io/chainsaw/latest/), [repo](https://github.com/kyverno/chainsaw)): A declarative end-to-end testing tool for Kubernetes operators.
 
+* * **Kyverno Envoy Plugin** ([web](https://kyverno.github.io/kyverno-envoy-plugin/latest/), [repo](https://github.com/kyverno/kyverno-envoy-plugin): .
+
+
 ### Other Repositories
 
 * [website](https://github.com/kyverno/website): The source for the Kyverno website at https://kyverno.io.
